@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tries",
+  "info": {
+    "singularName": "try",
+    "pluralName": "tries",
+    "displayName": "Try",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Car": {
+      "type": "string"
+    }
+  }
+}
